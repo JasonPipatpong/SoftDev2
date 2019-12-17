@@ -1,7 +1,7 @@
 ## Log analysis 
 
 ### Developer 
-- Pipatong Prachum Cpr.E kmutnb 6101012610088
+- Pipatong Prachum 6101012610088 Cpr.E kmutnb
 ### python requierment 
 - python above 3.00 
 - re 
