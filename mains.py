@@ -112,14 +112,14 @@ for ele in file:
   # Example of call data  
 for i in range(10):
     print(st_log.storange[i].Day+st_log.storange[i].Month+st_log.storange[i].Year) 
-# st_log.save_file_json() this is save log to json file 
+# st_log.save_file_json()  # this is save log to json file 
 
 
 
 
 
 # Update 6 Dec 2019 /  เขียน fn split  type str and list. Goal can restored to class 
-# Update 18 Dec 2019 / done: -save json file  ,||, comming: -read json file. -pick file 
+# Update 18 Dec 2019 / done: -save json file  ,||, comming: -read json file. -pick file.
   
     
 
