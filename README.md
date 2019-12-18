@@ -1,4 +1,5 @@
 ## LOGS ANALYSIS
+-updating on mains.py
 
 ### Developer 
 - Pipatong Prachum 6101012610088 Cpr.E kmutnb
