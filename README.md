@@ -5,5 +5,6 @@
 ### python requierment 
 - python above 3.00 
 - re 
+-json
     
     
