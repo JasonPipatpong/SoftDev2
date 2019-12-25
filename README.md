@@ -7,5 +7,8 @@
 ### python requierment  packets
 - re 
 - json 
+- tkinter
+- tkcalendar
+- matplotlib
     
     
