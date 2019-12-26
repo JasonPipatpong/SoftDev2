@@ -1,5 +1,5 @@
 ## LOGS ANALYSIS
-- updating 
+- updating run program with gui.py 
 ### Developer 
 - Pipatong Prachum 6101012610088 Cpr.E kmutnb
 ### python requierment 
