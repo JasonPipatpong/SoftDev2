@@ -10,5 +10,6 @@
 - tkinter
 - tkcalendar
 - matplotlib
+- basemap 
     
     
