@@ -11,5 +11,9 @@
 - tkcalendar
 - matplotlib
 - basemap 
+- pycountry
+- requests
+- datatime 
+- numpy 
     
     
